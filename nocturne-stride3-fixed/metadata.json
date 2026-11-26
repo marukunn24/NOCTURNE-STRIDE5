@@ -1,0 +1,6 @@
+{
+  "name": "NOCTURNE STRIDE",
+  "description": "Urban-fantasy 2D side-scrolling action prototype inspired by classic momentum platformers, featuring floating touch stick controls, variable/double jump, slope sliding, and arcane bolts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
